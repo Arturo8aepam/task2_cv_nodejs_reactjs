@@ -1,0 +1,97 @@
+[
+	{
+	"basics": {	  	  
+	  "name": "Arturo Ochoa Mendoza",
+	  "label": "Junior Systems Engineer",	  
+	  "email": "arturo_ochoa@epam.com",
+	  "phone": "(722) 4049894",
+	  "summary": "I have great motivation to keep learning everything that would help me accomplish my objectives",
+	  "location": {
+		"city": "Metepec",
+		"countryCode": "MX",
+		"state": "Estado de Mexico",
+		"cp": "52147"
+	  },
+	  "social": 
+		{
+		  "network": "Twitter",
+		  "username": "Arturo8a100",
+		  "url": "https://twitter.com/Arturo8a100/"
+		}
+	},
+	"work": {
+		"name": "HSBC",
+		"position": "Cloud DevOps Engineer Junior",
+		"startDate": "2021-08-09",
+		"endDate": "2022-05-31",
+		"summary": "Create infrastructure of AWS accounts with code",
+		"highlights": [
+		  "Use of Terraform",
+		  "Design AWS diagrams accounts"
+		]
+	},
+	"education": {
+		"institution": "Instituto Tecnologico de Toluca",
+		"url": "https://www.tolucatecnm.mx/",
+		"area": "Ingenieria en Sistemas Computaiconales",
+		"studyType": "Bachelor",
+		"startDate": "2017-08-01",
+		"endDate": "2022-05-31",
+		"score": "86"
+	},
+	"certificates": [
+	  {
+		"name": "Microsoft Office Specialist 2013",
+		"issuer": "Microsoft"
+	  },
+	  {
+		"name": "Cambridge English Level B2",
+		"issuer": "Cambridge"
+	  }
+	],
+	"skills": [
+	  {
+		"name": "Web Development",
+		"level": "Intermediate",
+		"keywords": [
+		  "HTML",
+		  "CSS",
+		  "JavaScript",
+		  "NodeJS"
+		]
+	  },
+	  {
+		"name": "AWS",
+		"level": "Basic",
+		"keywords": [
+		  "EC2",
+		  "S3",
+		  "VPC",
+		  "Segurity Groups",
+		  "AWS Console",
+		  "AWS CLI"
+		]
+	  }
+	],
+	"languages": [
+	  {
+		"language": "Spanish",
+		"fluency": "Native speaker"
+	  },
+	  {
+		"language": "English",
+		"fluency": "B2"
+	  }
+	],
+	"interests": [
+	  {
+		"name": "Sports",
+		"keywords": [
+		  "NFL",
+		  "Soccer",
+		  "NBA"
+		]
+	  }
+	]
+	}
+]
